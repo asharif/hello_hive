@@ -1,0 +1,8 @@
+prereq:
+
+1.  Hadoop
+2.  Hive
+
+To run:
+
+hive -f hello_hive.q
